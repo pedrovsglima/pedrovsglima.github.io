@@ -2,64 +2,49 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Pedro Vitor Soares Gomes de Lima
+    - name: Email
+      value: pedro.vitorlima@ufpe.br
     - name: Languages
-      value: English, German
+      value: Portuguese, English, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc in Biomedical Engineering
+      institution: Federal University of Pernambuco, Recife, Brazil
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis title - Clinical decision support system for the diagnosis of skin cancer and Hansen's disease using digital image analysis and deep neural networks.
+    - title: BSc in Control and Automation Engineering
+      institution: Federal University of Pernambuco, Recife, Brazil
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Undergraduate thesis title - Building a MATLAB application for repetitive controller projects.
+        - Activities and societies - Robotics Team (Team Leader), Student Tutor (Control Systems Engineering), AeroDesign Team (Member).
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Data Integration Analyst
+      institution: Weduu Soluções em Data Analytics, São Paulo, Brazil
+      year: 2023 - current
+      maindescription: Develop, review, and maintain data pipelines, serving companies in both the consumer goods and distribution sectors.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Data Engineer
+      institution: beAnalytic Business Intelligence, Natal, Brazil
+      year: 2022 - 2023
+      maindescription: Consulting and outsourcing BI and data engineering services, serving companies from 15+ segments.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Clinical Engineering Analyst
+      institution: EHC Engenharia Clínica, Fortaleza, Brazil
+      year: 2021 - 2021
+      maindescription: Maintenance management of a clinical laboratory with 20+ branches and 500+ biomedical equipment.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Engineering Assistant
+      institution: Comau do Brasil Facilities, Goiana, Brazil
+      year: 2019 - 2021
+      maindescription: Energy management in an automotive industry (Jeep Assembly Plant).
 
 - title: Open Source Projects
   type: time_table
