@@ -1,7 +1,7 @@
 ---
 # layout: cv
 # permalink: /cv/
-permalink: /assets/pdf/CV.pdf
+permalink: "/assets/pdf/CV_Pedro_Lima.pdf"
 title: curriculum vitae
 nav: true
 nav_order: 4
