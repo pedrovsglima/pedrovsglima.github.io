@@ -1,7 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+# layout: cv
+# permalink: /cv/
+permalink: /assets/pdf/CV.pdf
+title: curriculum vitae
 nav: true
 nav_order: 4
 # cv_pdf: example_pdf.pdf
@@ -9,3 +10,4 @@ nav_order: 4
 # toc:
 #   sidebar: left
 ---
+<!-- <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_self">Link</a> -->

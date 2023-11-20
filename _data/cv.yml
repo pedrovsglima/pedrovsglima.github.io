@@ -14,14 +14,27 @@
     - title: MSc in Biomedical Engineering
       institution: Federal University of Pernambuco, Recife, Brazil
       year: 2023
-      description:
-        - Thesis title - Clinical decision support system for the diagnosis of skin cancer and Hansen's disease using digital image analysis and deep neural networks.
+      maindescription: "Thesis title: Clinical decision support system for the diagnosis of skin cancer and Hansen's disease using digital image analysis and deep neural networks."
+
     - title: BSc in Control and Automation Engineering
       institution: Federal University of Pernambuco, Recife, Brazil
       year: 2020
       description:
-        - Undergraduate thesis title - Building a MATLAB application for repetitive controller projects.
-        - Activities and societies - Robotics Team (Team Leader), Student Tutor (Control Systems Engineering), AeroDesign Team (Member).
+        - "Undergraduate thesis title: Building a MATLAB application for repetitive controller projects."
+        - "Activities and societies: Robotics Team (Team Leader), Student Tutor (Control Systems Engineering), AeroDesign Team (Member)."
+
+    - title: Electrical and Automation Engineering
+      institution: National Polytechnic Institute of Toulouse, Toulouse, France
+      year: 2018 - 2019
+      maindescription: Spent a full academic year as a Visiting Undergraduate Student.
+
+- title: Awards and Achievements
+  type: time_table
+  contents:
+    - year: 2018
+      maindescription: "Study abroad scholarship awarded to outstanding undergraduate students through the BRAFITEC (Brasil France Ingénieur Technologie) program. <b>€10,900</b>. Funding agency: CAPES."
+    - year: 2017
+      maindescription: "Development of academic teaching, research, and extension activities in state public schools through the Institutional Research, Education and Extension Program (PIPEX). <b>€750</b>. Funding agency: PROEXC/UFPE."
 
 - title: Work Experience
   type: time_table
@@ -52,17 +65,6 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
