@@ -28,7 +28,7 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam rhoncus, n
 <h4>BSc in Control and Automation Engineering &nbsp;(2020) </h4>
 
 <i>Federal University of Pernambuco, Recife, Brazil</i> <br>
-<i>Title:</i> Building a MATLAB application for repetitive controller projects (<a href=" {{ tcc_pedro_lima.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank">Original in Portuguese</a>) <br>
+<i>Title:</i> Building a MATLAB application for repetitive controller projects (<a href=" {{ 'tcc_pedro_lima.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank">Original in Portuguese</a>) <br>
 <i>Supervisor:</i> Fabrício Bradaschia (<a href="https://orcid.org/0000-0002-2086-7862" target="_blank">ORCID</a>) <br><br>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet porttitor purus eget elementum. Sed in blandit erat. Nulla pretium tellus eu eros placerat tempus. Ut sit amet dolor in nisl tristique sagittis. Quisque urna quam, lobortis a ante non, ornare posuere enim. Donec sagittis lectus eget vehicula hendrerit. 
