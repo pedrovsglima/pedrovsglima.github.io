@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Federal University of Pernambuco
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -17,7 +16,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am looking for PhD positions at the intersection of ...
@@ -26,8 +25,8 @@ I have an MSc in Biomedical Engineering and a BSc in Control and Automation Engi
 
 Research interests:
 
-  - TODO
+  - Computer Vision;
 
-  - TODO
+  - Explainable Artificial Intelligence;
 
-  - TODO
+  - Machine Learning for Medical Applications.
