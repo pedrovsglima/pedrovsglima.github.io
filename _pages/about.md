@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Federal University of Pernambuco
+subtitle: Federal University of Pernambuco, Recife, Brazil
 
 profile:
   align: right
