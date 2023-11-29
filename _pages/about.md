@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am looking for PhD positions at the intersection of ...
+I currently work in data engineering and am interested in research at the intersection of artificial intelligence and healthcare.
 
-I have an MSc in Biomedical Engineering and a BSc in Control and Automation Engineering from the Federal University of Pernambuco (Brazil). As an undergraduate student, I spent a full academic year at INP-ENSEEIHT (France) under the scientific mobility program BRAFITEC (Brasil France Ingénieur Technologie).
+I did my MSc in Biomedical Engineering at Federal University of Pernambuco (Brazil), where I applied deep learning for skin disease diagnosis. Previously, I received a BSc in Control and Automation Engineering from Federal University of Pernambuco (Brazil), with an opportunity to spend a full academic year at INP-ENSEEIHT (France) as a Visiting Student.
 
 Research interests:
 
