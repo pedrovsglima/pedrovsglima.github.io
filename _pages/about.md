@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 I currently work in data engineering and am interested in research at the intersection of artificial intelligence and healthcare.
 
-I did my MSc in Biomedical Engineering at Federal University of Pernambuco (Brazil), where I applied deep learning for skin disease diagnosis. Previously, I received a BSc in Control and Automation Engineering from Federal University of Pernambuco (Brazil), with an opportunity to spend a full academic year at INP-ENSEEIHT (France) as a Visiting Student.
+I did my MSc in Biomedical Engineering at Federal University of Pernambuco (Brazil), where I applied deep learning for skin disease diagnosis. Previously, I received a BSc in Control and Automation Engineering from Federal University of Pernambuco (Brazil), with a full academic year at INP-ENSEEIHT (France) as a Visiting Student.
 
 Research interests:
 
