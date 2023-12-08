@@ -28,7 +28,7 @@ I participated in a research group and collaborated in managing the machine lear
 <i>Title:</i> Building a MATLAB application for repetitive controller projects (<a href=" {{ 'tcc_pedro_lima.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank">Original in Portuguese</a>) <br>
 <i>Supervisor:</i> Fabrício Bradaschia (<a href="https://orcid.org/0000-0002-2086-7862" target="_blank">ORCID</a>, <a href="http://lattes.cnpq.br/7274295997961188" target="_blank">Lattes</a>) <br><br>
 
-I was granted a scholarship to spend a full academic year at INP-ENSEEIHT (France) through a program supported by the French and Brazilian governments (BRAFITEC - BRAsil France Ingénieur TEChnologie).
+I was granted a scholarship to spend a full academic year at INP-ENSEEIHT (France) through a program supported by the French and Brazilian governments (CAPES/BRAFITEC).
 <br><br>
 For my final project, I developed a MATLAB application to support the design of control systems that utilize repetitive controllers. It is available on the <a href="https://www.mathworks.com/matlabcentral/fileexchange/74759-repetitive-controller-designer" target="_blank">MathWorks website</a> and was later adapted into a <a href="https://doi.org/10.3390/en16052451" target="_blank">journal article</a>. With this interactive tool, users can observe the impact of changing controller parameters on the system stability and determine the feasibility of this approach in their context. 
 <br><br>
