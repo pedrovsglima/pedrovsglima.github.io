@@ -33,6 +33,8 @@ I was granted a scholarship to spend a full academic year at INP-ENSEEIHT (Franc
 For my final project, I developed a MATLAB application to support the design of control systems that utilize repetitive controllers. It is available on the <a href="https://www.mathworks.com/matlabcentral/fileexchange/74759-repetitive-controller-designer" target="_blank">MathWorks website</a> and was later adapted into a <a href="https://doi.org/10.3390/en16052451" target="_blank">journal article</a>. With this interactive tool, users can observe the impact of changing controller parameters on the system stability and determine the feasibility of this approach in their context. 
 <br><br>
 Participating in a robotics team, we developed a line-following robot simulator. We aimed to simulate the physical structure, behavior, and operations, enabling the user to observe the robot following the line according to the code. Our work resulted in four publications on conference proceedings <a href="https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/523" target="_blank">describing how it works</a>, <a href="https://doi.org/10.1109/LARS/SBR/WRE.2018.00103" target="_blank">adding new features</a>, <a href="https://doi.org/10.1109/SVR.2019.00025" target="_blank">making it web-based</a>, and showing its <a href="https://doi.org/10.1109/LARS/SBR/WRE.2018.00101" target="_blank">use as an educational tool</a>.
+<br><br>
+Extracurricular activities: Teaching Assistant (Control Systems Engineering), Robotics Team (Team Leader), Aeromodelling Team (Member).
 
 </td>
 
