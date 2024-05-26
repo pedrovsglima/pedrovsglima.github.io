@@ -19,7 +19,7 @@ nav_order: 2
 
 The aim of my project was to investigate the use of deep neural networks for skin lesion image analysis and classification. The outcome was a clinical decision support system for the early diagnosis of skin cancer and Hansen's disease, considering reports from healthcare professionals and adapted to the reality of Brazil.
 <br><br>
-I participated in a research group and collaborated in managing the machine learning experiments to support the diagnosis of Covid-19 based on hematological and biochemical tests.
+As part of a research group, I actively contributed to managing machine learning experiments for diagnosing COVID-19 based on hematological and biochemical tests. The research, <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003190141-10/" target="_blank">published as a chapter</a> in *Swarm Intelligence: Trends and Applications*, identified key parameters for predicting the need for regular, semi-intensive, and intensive care, potentially aiding in early intervention and resource allocation.
 <br><br><br>
 
 <h4> <span style='font-weight: 500;'>BSc in Control and Automation Engineering &nbsp;(2020)</span> </h4>
