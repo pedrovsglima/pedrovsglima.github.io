@@ -199,9 +199,10 @@ kramdown:
 # Includes & excludes
 include: [
     "_pages/about.md",
-    # "_pages/cv.md",
     "_pages/publications.md",
     "_pages/education.md",
+    "_pages/cv.md",
+    # "_pages/projects.md",
     # "_pages/teaching.md",
   ]
 exclude:
