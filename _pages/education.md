@@ -12,12 +12,22 @@ nav_order: 2
 <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td> 
 
+
+<h4> <span style='font-weight: 500;'>PhD in Electrical and Computer Engineering &nbsp;(2024 - Present)</span> </h4>
+<i>Faculty of Engineering, University of Porto, Porto, Portugal</i> <br>
+<i>Title:</i> TBD <br>
+<i>Supervisor:</i> Hélder P. Oliveira (<a href="https://orcid.org/0000-0002-6193-8540" target="_blank">ORCID</a>, <a href="https://www.inescporto.pt/~hfpo" target="_blank">Personal Webpage</a>) <br>
+<i>Co-supervisor:</i> Jaime S. Cardoso (<a href="https://orcid.org/0000-0002-3760-2473" target="_blank">ORCID</a>, <a href="http://www.fe.up.pt/~jsc/" target="_blank">Personal Webpage</a>) <br><br>
+
+I am a 2024 FCT PhD Studentship holder and work within the <a href="https://vcmi.inesctec.pt/" target="_blank">Visual Computing and Machine Intelligence (VCMI) research group</a> at the Institute for Systems and Computer Engineering, Technology and Science (<a href="https://www.inesctec.pt/en" target="_blank">INESC TEC</a>).
+<br><br><br>
+
 <h4> <span style='font-weight: 500;'>MSc in Biomedical Engineering &nbsp;(2023)</span> </h4>
 <i>Federal University of Pernambuco, Recife, Brazil</i> <br>
 <i>Title:</i> Clinical decision support system for the diagnosis of skin cancer and Hansen’s disease using digital image analysis and deep neural networks (<a href="https://repositorio.ufpe.br/handle/123456789/50253" target="_blank">Original in Portuguese</a>) <br>
 <i>Supervisor:</i> Wellington Pinheiro dos Santos (<a href="https://orcid.org/0000-0003-2558-6602" target="_blank">ORCID</a>, <a href="http://lattes.cnpq.br/6413917211782026" target="_blank">Lattes</a>) <br><br>
 
-The aim of my project was to investigate the use of deep neural networks for skin lesion image analysis and classification. The outcome was a clinical decision support system for the early diagnosis of skin cancer and Hansen's disease, considering reports from healthcare professionals and adapted to the reality of Brazil.
+The aim of my project was to investigate the use of deep neural networks for skin lesion image analysis and classification. The outcome was a clinical decision support system for the early diagnosis of skin cancer and Hansen's disease, considering reports from healthcare professionals and ultimately contributing to improved patient outcomes. This research was later <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003359418-12/" target="_blank">published as a chapter</a> in <i>Biomedical Imaging: Principles and Advancements</i>.
 <br><br>
 As part of a research group, I actively contributed to managing machine learning experiments for diagnosing COVID-19 based on hematological and biochemical tests. The research, <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003190141-10/" target="_blank">published as a chapter</a> in <i>Swarm Intelligence: Trends and Applications</i>, identified key parameters for predicting the need for regular, semi-intensive, and intensive care, potentially aiding in early intervention and resource allocation.
 <br><br><br>
