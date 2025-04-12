@@ -22,6 +22,6 @@ I am a PhD student in Electrical and Computer Engineering at the University of P
 
 I did my MSc in Biomedical Engineering at the Federal University of Pernambuco (Brazil), where I applied deep learning for skin disease diagnosis. Previously, I received a BSc in Control and Automation Engineering from the same university, including a full academic year at INP-ENSEEIHT (France) as a Visiting Student.
 
-You can find out more about me through the navigation bar above. 
+Besides academics, I have work experience in the IT industry as a data engineer, primarily developing and maintaining data pipelines and integration flows that unify information from different source systems.
 
-Feel free to contact me!
+For more details, check out the navigation bar above. Feel free to contact me!

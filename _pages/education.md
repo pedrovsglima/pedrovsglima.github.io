@@ -9,11 +9,10 @@ nav_order: 2
 
 <tbody>
 <tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td>
 
-<h4 style="display: inline-block; font-size: 1.2em; margin-bottom: 0.5em; border-bottom: 2px solid #00BFFF; padding-bottom: 0.2em;">
-  education
+<h4 style="display: block; font-size: 1.2em; margin-bottom: 0.5em; border-bottom: 2px solid; padding-bottom: 0.2em; font-weight: bold;">
+education
 </h4>
 
 <h3> <strong>
@@ -65,6 +64,77 @@ I am a 2024 FCT PhD Studentship holder and work within the <a href="https://vcmi
 </li>
 
 <li>Extracurricular activities: Teaching Assistant (Control Systems Engineering), Robotics Team (Team Leader), Aeromodelling Team (Member).
+</li>
+
+</ul>
+
+<br><br>
+
+<h4 style="display: block; font-size: 1.2em; margin-bottom: 0.5em; border-bottom: 2px solid; padding-bottom: 0.2em; font-weight: bold;">
+  selected work experience
+</h4>
+
+<h3> <strong>
+    <span style="font-size: 0.8em; margin-bottom: 0.2em;">Research Assistant
+    <span style="font-size: 0.75em; color: #999;">(Sep 2024 - Present)</span>
+    </span></strong>
+</h3>
+
+<i>Porto, Portugal</i> <br>
+Institute for Systems and Computer Engineering, Technology and Science (INESC TEC) <br><br>
+
+<ul>
+<li>Areas of interest: computer vision, explainable artificial intelligence, and machine learning for medical applications.
+</li>
+<!-- <li style="margin-bottom: 6px;">Areas of interest: computer vision, explainable AI, and machine learning applied to healthcare
+</li> -->
+
+<!-- <li>Skills: Python, Deep Learning, Computer Vision.
+</li> -->
+
+</ul>
+
+<h3> <strong>
+    <span style="font-size: 0.8em; margin-bottom: 0.2em;">Data Engineer
+    <span style="font-size: 0.75em; color: #999;">(Jun 2023 - Nov 2024)</span>
+    </span></strong>
+</h3>
+
+<i>São Paulo, Brazil (Remote)</i> <br>
+Weduu Soluções em Data Analytics <br><br>
+
+<ul>
+<li style="margin-bottom: 6px;">Developed, tested, and maintained data integration flows to automate order entry for retail companies.
+</li>
+
+<li style="margin-bottom: 6px;">Ensured compliance with data governance policies, improved data quality, and documented processes.
+</li>
+
+<li>Skills: Python, SQL, Shell Scripting, Cloud Computing, Pentaho, Apache Airflow.
+</li>
+
+</ul>
+
+<h3> <strong>
+    <span style="font-size: 0.8em; margin-bottom: 0.2em;">Data Engineer
+    <span style="font-size: 0.75em; color: #999;">(Jul 2022 - Jun 2023)</span>
+    </span></strong>
+</h3>
+
+<i>Natal, Brazil (Remote)</i> <br>
+beAnalytic Business Intelligence <br><br>
+
+<ul>
+<li style="margin-bottom: 6px;">Provided consulting and outsourcing BI and data engineering services, serving companies from 15+ segments.
+</li>
+
+<li style="margin-bottom: 6px;">Developed, tested, and maintained data pipeline architectures to unify information from different source systems.
+</li>
+
+<li style="margin-bottom: 6px;">Collaborated with business intelligence analysts on developing reporting, dashboards, and other BI solutions.
+</li>
+
+<li>Skills: Python, SQL, Apache Airflow, Cloud Computing, CI/CD.
 </li>
 
 </ul>
